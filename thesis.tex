@@ -1,0 +1,92 @@
+\documentclass[12pt,a4paper]{eitthesis}
+\usepackage{textcomp}
+%\usepackage{newlfont}
+\usepackage[section]{placeins}
+\usepackage{times}
+\usepackage{amsmath}
+\usepackage{rotating}
+\usepackage[ruled]{algorithm2e} 
+\SetAlFnt{\small}
+\SetAlCapFnt{\small}
+\SetAlCapNameFnt{\small}
+\SetAlCapHSkip{0pt}
+\IncMargin{-\parindent}
+
+%Change the parameters of the next three lines to your thesis title, your name and matric number
+\title{Type the Title of the Thesis Here }
+\author{Firstname Othername Surname}
+\matricno{CSE/2019/001}
+%-----------Variables---------------------------
+%\draft  % To render a draft copy of the thesis
+\qualification{(Current Qualification)}
+\institution{\large \eit}
+\address{\large Erin-osun}
+\course{Computer Software Engineering}
+\library{EIT Library}
+\department{Computer Software Engineering}
+\college{Science, Engineering and Technology}
+
+\unilogo{logo} %specifies the logo file
+%-------uncomment one option only-------------
+\nd
+%\bsc
+%\msc
+%\pgd
+%\mphil
+%\phd
+%---uncomment any of the following to suppress appropriate sections-----
+%\noprefatory 
+%\nologo %This hides the OAU logo
+%\nolistoffigures 
+%\nolistoftables
+%\noauthorisation
+%\nocertification
+%\dedication{Dedication goes here}
+
+%---------include names of supervisors--------------------
+\supervisor{Name \& Signature of Supervisor} %First supervisor
+%\cosupervisor{Name \& Signature of Co-Supervisor}
+
+%\twosupervisors %uncomment if there is a cosupervisor
+
+\supervisor{Name \& Signature of Supervisor} 
+
+\hod{Name \& Signature of Head of Department}
+%------------load required packages here ---------------------
+\usepackage{graphicx} %To include graphics
+%---------------Main begins here----------------------------
+\begin{document}
+\maketitle %processes the title page
+\input{acknowledgement} %Inserts acknowledgement here
+\tableofcontents %Process TOC
+
+\input{abstract}
+ %Includes the content of abstract file
+%Ends prefatory section
+
+\beginmainbody 
+%\pagenumbering{arabic}
+
+%------------input chapters------------------------------
+
+\large
+
+\setlinespacing{2.0}
+%\linespace{2}
+
+\input{Chapter1}
+\input{Chapter2}
+\input{Chapter3}
+\input{Chapter4}
+\input{Chapter5}
+%-----------configure the bibliography section--------------
+\bibliographystyle{oau-apalike} %Reference style for OAU thesis
+\bibliography{bibliographyFile}  % Include your bib file here
+%--------------begins appendix section----------------------
+\appendix
+\input{AppendixE}
+\input{AppendixA}
+\input{AppendixB}
+\input{AppendixC}
+\input{AppendixD}
+\end{document}
