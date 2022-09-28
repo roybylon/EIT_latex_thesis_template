@@ -1,19 +1,21 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.6.4)  4 JAN 2013 20:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.16)  28 SEP 2022 13:11
 entering extended mode
-**oauthesis.tex
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**eitthesis.tex
 
 ! Emergency stop.
-<*> oauthesis.tex
+<*> eitthesis.tex
                  
 *** (job aborted, file error in nonstop mode)
 
  
 Here is how much of TeX's memory you used:
- 2 strings out of 494045
- 19 string characters out of 3148376
- 48890 words of memory out of 3000000
- 3399 multiletter control sequences out of 15000+200000
- 3640 words of font info for 14 fonts, out of 3000000 for 9000
- 715 hyphenation exceptions out of 8191
- 0i,0n,0p,1b,6s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 3 strings out of 475075
+ 105 string characters out of 5779003
+ 340273 words of memory out of 5000000
+ 21504 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 0i,0n,0p,1b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

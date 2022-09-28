@@ -75,7 +75,7 @@
 \def\course#1{\gdef\@course{#1}}
 \def\library#1{\gdef\@library{#1}}
 \def\degreeinitial#1{\gdef\@degreeinitial{#1}}
-\def\nd{\degree{National Diploma}\degreeinitial{ND}}
+\def\nd{\degree{National Innovation Diploma}\degreeinitial{NID}}
 \def\msc{\degree{Master of Science}\degreeinitial{M.Sc.}}
 \def\phd{\degree{Doctor of Philosophy}\degreeinitial{Ph.D.}}
 \def\mphil{\degree{Masters of Philosophy}\degreeinitial{M. Phil.}}
@@ -151,7 +151,7 @@
 	\fi
 	\vfill
 	\begin{center}
-		A THESIS SUBMITTED TO\\
+		A PROJECT SUBMITTED TO\\
 		DEPARTMENT OF \MakeUppercase{\@department}\\
 		%COLLEGE OF \MakeUppercase{\@college}\\
 		\MakeUppercase{\@institution,} \MakeUppercase{\@address} 
@@ -163,7 +163,8 @@
 	\end{center}
 	\vfill
 	\begin{center}
-		\MakeUppercase{\number\the\year} 
+	%	\MakeUppercase{\number\the\year}
+		\MakeUppercase{September, 2022} %Use this to state the exact month and year
 	\end{center}
 	}
 	\addtocontents{toc}{~\hfill \textbf{Page} \par}
@@ -179,7 +180,7 @@
 \textbf{
 \MakeUppercase{\@institution}, \MakeUppercase{\@address}, \MakeUppercase{\large Nigeria}\\
 \MakeUppercase{\@library}\\
-NATIONAL DIPLOMA THESIS\\
+NATIONAL INNOVATION DIPLOMA PROJECT\\
 }
 \vskip0.5in
 \textbf{AUTHORISATION TO COPY}
@@ -195,7 +196,7 @@ NATIONAL DIPLOMA THESIS\\
 	\item[\hbox to 0pt{\bf Year:}]       {\number\year}
 \end{list}
 \vskip0.5in
-I, {\@author}, hereby authorise the {\@library} to copy my thesis in part or whole in response to request from individuals and or organisations for the purpose of private study or research.
+I, {\@author}, hereby authorise the {\@library} to copy my project in part or whole in response to request from individuals and or organisations for the purpose of private study or research.
 \vskip1.2in
 	\signature{}{Signature of Author and Date}\\
 }
