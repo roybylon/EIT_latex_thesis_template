@@ -196,7 +196,7 @@ NATIONAL INNOVATION DIPLOMA PROJECT\\
 	\item[\hbox to 0pt{\bf Year:}]       {\number\year}
 \end{list}
 \vskip0.5in
-I, {\@author}, hereby authorise the {\@library} to copy my project in part or whole in response to request from individuals and or organisations for the purpose of private study or research.
+I, {\@author}, hereby authorise the {\@library} to copy my project in part or whole in response to request from individuals and/or organisations for the purpose of private study or research.
 \vskip1.2in
 	\signature{}{Signature of Author and Date}\\
 }
@@ -210,7 +210,7 @@ I, {\@author}, hereby authorise the {\@library} to copy my project in part or wh
 \end{center}
 \vskip0.3in 
 \begin{sloppypar} 
-The undersigned hereby certify that this is an original research carried out by {\@author} with the registration number {\@matricno} in the Department of {\@department},  {\@institution} under my supervision.
+The undersigned hereby certify that this is a diploma project carried out by {\@author} with the matriculation number {\@matricno} in the Department of {\@department},  {\@institution} under my supervision.
 \end{sloppypar}
 
 \vskip2.0in
