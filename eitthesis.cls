@@ -93,7 +93,7 @@
 \def\@faculty{Science and Engineering}
 \def\@college{Science and Engineering}
 \def\@library{Ol\'u\d{s}\d{o}l\'a Ak\'inr\`in\'ad\'e Library}
-\def\@supervisor{}
+\def\@supervisor{Mr. Tewogbade A.A}
 \def\@cosupervisor{}
 \def\@hod{}
 \def\@submitdate{\number\the\year}
