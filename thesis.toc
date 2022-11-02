@@ -36,9 +36,9 @@
 \contentsline {section}{\numberline {4.2}Research Findings}{22}{}%
 \contentsline {section}{\numberline {4.3}Implication of Findings}{23}{}%
 \contentsline {section}{\numberline {4.4}Chapter Summary}{23}{}%
-\contentsline {chapter}{\numberline {5}\large SUMMARY AND CONCLUSION}{24}{}%
-\contentsline {section}{\numberline {5.1}Research Summary}{24}{}%
-\contentsline {section}{\numberline {5.2}Research Conclusion}{24}{}%
+\contentsline {chapter}{\numberline {5}\large CONCLUSION AND RECOMMENDATION}{24}{}%
+\contentsline {section}{\numberline {5.1}Conclusion}{24}{}%
+\contentsline {section}{\numberline {5.2}Recommendation}{24}{}%
 \contentsline {chapter}{REFERENCES}{24}{}%
 \ttl@change@i {\@ne }{chapter}{0pt}{\vspace {10pt}}{\bfseries \appendixname \space \thecontentslabel :~}{\bfseries }{\bfseries \hfill \contentspage }\relax 
 \ttl@change@v {chapter}{}{}{}\relax 
